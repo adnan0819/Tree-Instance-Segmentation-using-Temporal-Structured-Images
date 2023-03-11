@@ -11,18 +11,18 @@ Please visit/download all our uncompressed flight videos (detailed in the table 
 
 ## List of flight paths
 
-* Waypoint1.kml - Path over Martell 4D Forest Area in Martell Forest
-* Martell_1962RedOak_LineMission.kml - Path over Martell 1962 Plantation
-* TentativePathStraightLine.kml - Secondary path over Martell 4D Area
+* `Waypoint1.kml` - Path over Martell 4D Forest Area in Martell Forest
+* `Martell_1962RedOak_LineMission.kml` - Path over Martell 1962 Plantation
+* `TentativePathStraightLine.kml` - Secondary path over Martell 4D Area
 * Each flight path has autonomous and manual flights (for comprehensive configuration detail like FOV, angles, focal lengths etc. please see the table below)
 
 ## List of dataset directories and files
 
-* ./annotated_dataset/ contains the details and link to frames with crowns labeled by forestry collaborators 
-* ./datasets/ contains the details and link to videos and frames with crowns annotated 
-* ./datasets/video_dataset/ contains the details and link to 24 uncompressed UAV flight videos including some shorter demos (full list is in the table below)
-* ./datasets/annotated_dataset/ contains the details and frames with crowns annotated 
-* Flight_List.csv contains the list of all flight videos including meta data comprising of dates and camera configurations. 
+* `./annotated_dataset/` contains the details and link to frames with crowns labeled by forestry collaborators 
+* `./datasets/` contains the details and link to videos and frames with crowns annotated 
+* `./datasets/video_dataset/` contains the details and link to 24 uncompressed UAV flight videos including some shorter demos (full list is in the table below)
+* `./datasets/annotated_dataset/` contains the details and frames with crowns annotated 
+* `Flight_List.csv` contains the list of all flight videos including meta data comprising of dates and camera configurations. 
 
 
 ## Annotation Details
