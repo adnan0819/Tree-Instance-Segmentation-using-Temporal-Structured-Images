@@ -1,6 +1,6 @@
 # Full Uncompressed UAV Videos 
 
-Please visit/download all our uncompressed flight videos (detailed in the table below) hosted on our institutional domain [HERE](http://handlebarsjs.com/).
+Please visit/download all our uncompressed flight videos (detailed in the table below) hosted on our institutional domain [HERE](https://hub.digitalforestry.org/videos/Tree_Instance_Segmentation_using_Temporal_Structured_Images_VIDEOS.html).
 
 # Flight List
 
