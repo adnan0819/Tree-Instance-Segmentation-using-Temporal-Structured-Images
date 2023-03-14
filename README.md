@@ -58,3 +58,5 @@ All annotations are in Labelme JSON format
 |10/28/22   |Martell Plot 4d     |Natural    |TentativePathStraightLine.kml     |Straight       |843m         |5m/s                 |120m    |Nadir       |DJI H20T   |82.9°|f/2.8   |24mm        |1/2.3" CMOS, 12 MP|
 
 
+# To Cite
+Coming soon
