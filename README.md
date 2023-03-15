@@ -59,4 +59,15 @@ All annotations are in Labelme JSON format
 
 
 # To Cite
-Coming soon
+
+If the dataset was helpful in any research, please cite
+
+```
+@inproceedings{tree2023cvpr,
+  title     = {Tree Instance Segmentation using Temporal Structured Image},
+  author    = {Firoze, Adnan and Wingren, Cameron and Yeh, Raymond and Benes, Bedrich and Aliaga, Daniel},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month     = {June},
+  year      = {2023},
+}
+```
