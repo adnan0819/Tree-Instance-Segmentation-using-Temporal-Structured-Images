@@ -62,7 +62,7 @@ All annotations are in Labelme JSON format
 
 If the dataset was helpful in any research, please cite
 
-```
+```bibtex
 @inproceedings{tree2023cvpr,
   title     = {Tree Instance Segmentation using Temporal Structured Image},
   author    = {Firoze, Adnan and Wingren, Cameron and Yeh, Raymond and Benes, Bedrich and Aliaga, Daniel},
