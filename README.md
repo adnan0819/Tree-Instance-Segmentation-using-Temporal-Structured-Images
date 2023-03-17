@@ -1,4 +1,4 @@
-# Tree Instance Segmentation using Temporal Structured Image (CVPR 2023)
+# Tree Instance Segmentation using Temporal Structured Image
 
 ## Dataset contibutions, annotations and supporting material
 This repo has all dataset and train/validation annotations for our paper **Tree Instance Segmentation using Temporal Structured Image** in **CVPR 2023**. The annotated frames and data are available in this repository. The full uncompressed UAV flight videos are hyperlinked as they are in the magnitudes of 50 GB. We hope this helps anyone and everyone in computer vision, forestry, or any area of research. 
